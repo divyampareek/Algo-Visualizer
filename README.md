@@ -1,1 +1,1 @@
-# Algo-VIsuaizer
+# Algo-Visualizer
